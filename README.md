@@ -1,5 +1,4 @@
--Big time thinker
--17y M
+big time thinker, part-time doer
 
 <!---
 abzf227/abzf227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
